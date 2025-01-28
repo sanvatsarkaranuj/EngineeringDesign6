@@ -30,7 +30,7 @@ I work in child care and early childhood education for children from the ages of
 
 Here is the link to the Mile Square website, so you can learn more about the kind of work that we do: 
 [Mile Square Early Learning Center](https://www.mselc1979.org/)
-![MSLC Website Images](https://lh3.googleusercontent.com/IEFFNb7JUaZ7MZ3pwes2YgiGrqcLj54xbSzbasIaKaDkG-JfzC_2JTVGPxfajlrFQEmVLGLaBiCHQhEgRvJYvDQYntjd8jfqfsE6gfZKUFGsTdsMYJTdYzyM7XGs6qB0rw=w1280)
+![Untitled](https://github.com/user-attachments/assets/ba868a34-6263-4bfd-8a1f-c26d02293b9a)
 
 # Coding Experience 
 I've taken some basic course work regarding JavaScript, HTML, and C++ as well as having completed the Harvard CS50 Online Python Course. Attatched within the file tree of this GitHub Repository is the file for a text based Taqueria Restaurant application I created in Python. 
