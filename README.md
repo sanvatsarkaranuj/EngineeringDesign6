@@ -27,6 +27,8 @@ I work in child care and early childhood education for children from the ages of
 2. Lunch/Bathroom Breaks: Small children often struggle with tasks such as unpackaging food items and utilizing stalls and sinks. Children must be monitored when using the bathroom to ensure their sanitation and that their lavatory needs are met.
 3. Playing. Young children have a ton of energy and need constant attention. Its important to engage with them and make them feel seen and heard.
 
+# Coding Experience 
+`taqueria.py` 
   
   
 
