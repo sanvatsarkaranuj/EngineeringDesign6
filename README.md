@@ -3,7 +3,7 @@ Anuj Sanvatsarkar \
 *Major* \
 3/5 Electrical Engineering
 
-Prof. Kevin Lu
+Prof. Kevin Lu \
 Spring Semester 2025
 
 # About Me
@@ -16,5 +16,8 @@ Spring Semester 2025
 
 **Projects:**
 - Queue Optimization Protocal for Disney Rides
-- 
+- Formulated Logistic Growth Model for COVID-19 Contamination Data
+
+#
+  
 
