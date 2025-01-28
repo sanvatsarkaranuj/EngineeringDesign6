@@ -30,6 +30,7 @@ I work in child care and early childhood education for children from the ages of
 
 Here is the link to the Mile Square website, so you can learn more about the kind of work that we do: 
 [Mile Square Early Learning Center](https://www.mselc1979.org/)
+
 ![Untitled](https://github.com/user-attachments/assets/ba868a34-6263-4bfd-8a1f-c26d02293b9a)
 
 # Coding Experience 
