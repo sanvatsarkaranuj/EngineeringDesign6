@@ -1,4 +1,4 @@
-![Project Group 21: Team Site](https://sites.google.com/stevens.edu/team-project-sitegroup21/home)
+[Project Group 21: Team Site](https://sites.google.com/stevens.edu/team-project-sitegroup21/home)
 # Engineering Design VI
 ## Anuj Sanvatsarkar 
 
