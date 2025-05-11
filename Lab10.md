@@ -59,7 +59,8 @@ The following code was ran on Terminal 2:
 $ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
-To view this app, I went to  http://127.0.0.1:5000/. I posted initial content to the app (Block #1) and requested to mine it. Then I went to http://127.0.0.1:8000/mine to get a confirmation that my block had been mined. 
+To view this app, I went to  http://127.0.0.1:5000/. I posted initial content to the app (Block #1) and requested to mine it. Then I went to http://127.0.0.1:8000/mine to get a confirmation that my block had been mined.
+
 ![Image](https://github.com/user-attachments/assets/92efbf9c-ed56-4644-9861-60bbf62701b8)
 
 Lastly, I went back to the main page and pressed "Resync" to see my updated changes to my blockchain. 
