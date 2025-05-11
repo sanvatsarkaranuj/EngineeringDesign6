@@ -14,13 +14,11 @@ Document results on your GitHub repository.
 
 ---
 
-## Half Adder
 **Half Adder Result:**
 ![Image](https://github.com/user-attachments/assets/96a8c04b-5a2c-489e-969e-1456b242fc39)
 
 ---
 
-## Half Adder
 **Half Adder Result:**
 ![Image](https://github.com/user-attachments/assets/ecf0746e-6166-44d2-9c3f-7835e4c05d4b)
 
