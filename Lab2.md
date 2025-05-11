@@ -60,6 +60,7 @@ This command displays a list of all files in the current directory besides hidde
 
 ## cd
 This command will change directories to your home directory 
+
 ![Image](https://github.com/user-attachments/assets/ea29c308-426d-403f-9e36-e1fcad1297c8)
 
 ## df
