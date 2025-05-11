@@ -1,5 +1,4 @@
-# Lab 2
-## Command Line 
+# Lab 2:Command Line
 ### Instructions:
 Go to the IOT repository. Review Lessons 1 and 2. Then, open a terminal and enter the following commands:</br>
 `hostname`, 
