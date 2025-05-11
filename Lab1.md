@@ -1,4 +1,3 @@
-# CPE 322
 ## Lab 1: GHDL & GTKWave
 ### Instructions:
 Go to the GitHub repository for Digital System Design( 
