@@ -97,6 +97,9 @@ This command removes (deletes) file2
 
 ## clear
 This command will clear all content on the terminal screen
+
+## ping localhost
+This command sends network packets to your own machine to check if the network stack is functioning properly.
 ![Image](https://github.com/user-attachments/assets/c4095311-6ec3-4bb7-89eb-e87d4f053d29)
 
 ## man uname
