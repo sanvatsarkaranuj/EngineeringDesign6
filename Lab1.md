@@ -19,7 +19,7 @@ Document results on your GitHub repository.
 
 ---
 
-**Half Adder Result:**
+**Half Adder Code:**
 ![Image](https://github.com/user-attachments/assets/ecf0746e-6166-44d2-9c3f-7835e4c05d4b)
 
 ![Image](https://github.com/user-attachments/assets/839e52ca-71ef-402f-8fb4-55a172ef3adb)
