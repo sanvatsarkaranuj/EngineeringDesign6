@@ -19,3 +19,4 @@ The following commands were executed in my terminal to install Django and Django
 - `pip3 install -U markdown`
 - `pip3 install -U requests`
 ![Image](https://github.com/user-attachments/assets/70da05bc-5cc7-4710-b129-7ed259d0abb4)
+![Image](https://github.com/user-attachments/assets/98fb9076-1af9-4175-927e-910d171ec621)
