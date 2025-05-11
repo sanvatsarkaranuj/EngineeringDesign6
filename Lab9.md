@@ -49,5 +49,5 @@ I ran the command `python3 -m plantuml intrusiondetection.uml` to create a seque
 - `gimp -a intrusiondetection.png`
 
 The same PNG image was shown within both the Pinta and GIMP applications. 
-### PNG image
+
 ![Image](https://github.com/user-attachments/assets/bd838881-3bae-4ba9-821b-2ceaaf53efbb)
