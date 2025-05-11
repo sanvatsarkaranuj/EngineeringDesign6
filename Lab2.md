@@ -25,7 +25,14 @@ Go to the IOT repository. Review Lessons 1 and 2. Then, open a terminal and ente
 `ping localhost`, 
 `netstat`. 
 Document results to GitHub repository.
+
+---
+## hostname
+This command displays the computer's network host name
 ![Image](https://github.com/user-attachments/assets/d777f1d1-3a33-4e86-803e-8a1e75cba3b4)
+
+## env
+This command displays the computer's environment variables
 ![Image](https://github.com/user-attachments/assets/f84adf1c-85d5-4749-8512-502d95b512b6)
 ![Image](https://github.com/user-attachments/assets/bb90b61f-6da9-46f0-9f17-ba12e68c3020)
 ![Image](https://github.com/user-attachments/assets/1fa2e96f-39ed-40e8-bc5a-a8a2a5ebc086)
