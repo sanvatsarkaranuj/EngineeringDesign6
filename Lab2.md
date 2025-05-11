@@ -34,10 +34,26 @@ This command displays the computer's network host name
 ## env
 This command displays the computer's environment variables
 ![Image](https://github.com/user-attachments/assets/f84adf1c-85d5-4749-8512-502d95b512b6)
+
+## ps
+This command displays information about running processes on the computer
 ![Image](https://github.com/user-attachments/assets/bb90b61f-6da9-46f0-9f17-ba12e68c3020)
+
+## pwd
+This command display the full path of the current directory you are located in
 ![Image](https://github.com/user-attachments/assets/1fa2e96f-39ed-40e8-bc5a-a8a2a5ebc086)
+
+## git clone https://github.com/kevinwlu/iot.git
+This command makes a copy of the git repository that is located at the specified website. Note that Git must be installed for this command to work. 
+In this case a copy of the IOT repository is being made.
 ![Image](https://github.com/user-attachments/assets/87838ae4-ca98-48e5-85e2-0f76a1d01d12)
+
+## cd iot
+This command changes the working directory to IOT. 
 ![Image](https://github.com/user-attachments/assets/1a767092-3f18-4306-903b-3731c53073b3)
+
+## ls
+This command displays a list of all files in the current directory besides hidden files. 
 ![Image](https://github.com/user-attachments/assets/57c24745-ece3-4342-91be-420c9a7cd558)
 ![Image](https://github.com/user-attachments/assets/ea29c308-426d-403f-9e36-e1fcad1297c8)
 ![Image](https://github.com/user-attachments/assets/14732598-95f4-4e3e-b587-c0c7272afec3)
