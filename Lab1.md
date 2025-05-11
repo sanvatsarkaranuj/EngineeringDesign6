@@ -1,3 +1,15 @@
+# CPE 322
+## Lab 1: GHDL & GTKWave
+### Instructions:
+Go to the GitHub repository for Digital System Design( 
+[DSD GitHub Repository](https://github.com/kevinwlu/dsd.git)
+). Navigate to GHDL folder. Install GHDL & GTKWave. Run Half Adder Example and another example such as D Flip Flop or 4-1 Multiplexer. 
+Document results on your GitHub repository. 
+
+---
+
+## Half Adder
+
 ![Image](https://github.com/user-attachments/assets/6906f935-8307-4d3a-be7e-a96a3c3aac82)
 ![Image](https://github.com/user-attachments/assets/5655c889-d25f-4be9-9fc2-94fef3e3d808)
 ![Image](https://github.com/user-attachments/assets/96a8c04b-5a2c-489e-969e-1456b242fc39)
