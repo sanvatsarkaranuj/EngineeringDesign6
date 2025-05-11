@@ -41,6 +41,7 @@ This command displays information about running processes on the computer
 
 ## pwd
 This command display the full path of the current directory you are located in
+
 ![Image](https://github.com/user-attachments/assets/1fa2e96f-39ed-40e8-bc5a-a8a2a5ebc086)
 
 ## git clone https://github.com/kevinwlu/iot.git
