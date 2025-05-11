@@ -1,3 +1,30 @@
+# Lab 2
+## Command Line 
+### Instructions:
+Go to the IOT repository. Review Lessons 1 and 2. Then, open a terminal and enter the following commands:</br>
+`hostname`, 
+`env`, 
+`ps`, 
+`pwd`, 
+`git clone https://github.com/kevinwlu/iot.git`, 
+`cd iot`, 
+`ls`, 
+`cd`, 
+`df`, 
+`mkdir demo`, 
+`cd demo `, 
+`nano file`, 
+`cat file`, 
+`cp file file1`, 
+`mv file file2`, 
+`rm file2`, 
+`clear`, 
+`man uname`, 
+`uname -a`, 
+`ifconfig`, 
+`ping localhost`, 
+`netstat`. 
+Document results to GitHub repository.
 ![Image](https://github.com/user-attachments/assets/d777f1d1-3a33-4e86-803e-8a1e75cba3b4)
 ![Image](https://github.com/user-attachments/assets/f84adf1c-85d5-4749-8512-502d95b512b6)
 ![Image](https://github.com/user-attachments/assets/bb90b61f-6da9-46f0-9f17-ba12e68c3020)
