@@ -1,5 +1,4 @@
 # Lab 5 - Paho-MQTT
-### I pledge my honor that I have abided by the Stevens honor system - *Kaitlyn Bjerke*
 ---
 **Description:** This lab utilizes Paho-MQTT, which is a type of protocol that allows publishing/subscribing between modules
 
