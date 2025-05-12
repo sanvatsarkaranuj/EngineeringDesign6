@@ -95,6 +95,7 @@ This command removes (deletes) file2
 
 ## clear
 This command will clear all content on the terminal screen
+
 ![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
 
 ## ifconfig
