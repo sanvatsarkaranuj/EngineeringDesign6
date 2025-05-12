@@ -95,6 +95,7 @@ This command removes (deletes) file2
 This command will clear all content on the terminal screen
 ![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
 
+## ifconfig
 ## ping localhost
 This command sends network packets to your own machine to check if the network stack is functioning properly.
 ![Image](https://github.com/user-attachments/assets/c4095311-6ec3-4bb7-89eb-e87d4f053d29)
