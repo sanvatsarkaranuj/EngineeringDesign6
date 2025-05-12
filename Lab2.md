@@ -80,18 +80,21 @@ Since a file named 'file' does net yet exist, this command will open a blank tex
 
 ## cat file
 This command will display the contents of 'file'
-![Image](https://github.com/user-attachments/assets/af1190c7-96a1-4592-b83c-773aa9728e85)
-
 ## cp file file1
 This command copies the contents of file into file1
-![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
-
 ## mv file file2
 This command moves (or renames) file to file2
-![Image](https://github.com/user-attachments/assets/0baf8497-e6a8-4c61-8e62-ad478678a53a)
-
 ## rm file2
 This command removes (deletes) file2
+![Image](https://github.com/user-attachments/assets/af1190c7-96a1-4592-b83c-773aa9728e85)
+
+
+![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
+
+
+![Image](https://github.com/user-attachments/assets/0baf8497-e6a8-4c61-8e62-ad478678a53a)
+
+
 ![Image](https://github.com/user-attachments/assets/05c3566b-d2d6-4400-9dd1-f74f4995ea7e)
 
 ## clear
