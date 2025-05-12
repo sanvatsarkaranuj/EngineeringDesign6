@@ -33,4 +33,6 @@ I started a Django project named "stevens" by executing the following command in
 ## Weather Station
 ![Image](https://github.com/user-attachments/assets/33a8d407-1d08-4c4a-9ff0-87dc9d15dcb4)
 
+##mycpu
+![Image](https://github.com/user-attachments/assets/ba6a6fe2-6067-496c-982f-0364163520d5)
 
