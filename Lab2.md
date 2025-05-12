@@ -89,9 +89,6 @@ This command removes (deletes) file2
 ![Image](https://github.com/user-attachments/assets/af1190c7-96a1-4592-b83c-773aa9728e85)
 
 
-![Image](https://github.com/user-attachments/assets/0baf8497-e6a8-4c61-8e62-ad478678a53a)
-
-
 ![Image](https://github.com/user-attachments/assets/05c3566b-d2d6-4400-9dd1-f74f4995ea7e)
 
 ## clear
@@ -104,4 +101,5 @@ This command sends network packets to your own machine to check if the network s
 
 ## man uname
 This command opens the manual page for the 'uname' command. Manual pages show documentation about commands
+![Image](https://github.com/user-attachments/assets/0baf8497-e6a8-4c61-8e62-ad478678a53a)
 ![Image](https://github.com/user-attachments/assets/64c18179-2a10-4af9-8f8f-0c6274d7de08)
