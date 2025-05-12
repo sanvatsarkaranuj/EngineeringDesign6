@@ -89,9 +89,6 @@ This command removes (deletes) file2
 ![Image](https://github.com/user-attachments/assets/af1190c7-96a1-4592-b83c-773aa9728e85)
 
 
-![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
-
-
 ![Image](https://github.com/user-attachments/assets/0baf8497-e6a8-4c61-8e62-ad478678a53a)
 
 
@@ -99,6 +96,7 @@ This command removes (deletes) file2
 
 ## clear
 This command will clear all content on the terminal screen
+![Image](https://github.com/user-attachments/assets/327024ef-3a16-4e75-86fb-0d235e3a1114)
 
 ## ping localhost
 This command sends network packets to your own machine to check if the network stack is functioning properly.
