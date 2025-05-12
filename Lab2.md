@@ -109,4 +109,5 @@ This command opens the manual page for the 'uname' command. Manual pages show do
 
 ## netstat
 This command displays information about your network connections, including active TCP connections, listening ports, routing table details, and network interface statistics
+
 ![Image](https://github.com/user-attachments/assets/64c18179-2a10-4af9-8f8f-0c6274d7de08)
