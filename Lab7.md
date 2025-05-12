@@ -38,4 +38,7 @@ $ mv ~/Downloads/rpidata-*.json ~/demo
 After executing the code, I went to Google Sheets and started a new spreadsheet called "cpudata." 
 I shared the spreadsheet with the "client_email" address in my .json file and allowed that email to have edit access. To set up the spreadsheet I deleted rows 2-1000 and entered the following header cells: Date / Time, CPU Usage (%), Memory Available (GB).
 
+## CPUdata
+![Image](https://github.com/user-attachments/assets/db578f7b-aa24-417e-aa0a-68e1e7421f13)
+
 </br>
