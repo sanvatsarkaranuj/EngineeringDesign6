@@ -48,7 +48,6 @@ This command runs a python script called julian.py. It gives the calendar date, 
 
 ## python3 date_example.py
 This command runs a python script called date_example.py. It gets the current date, formats it in a couple different ways, and calculates the number of days since the first day of classes and until the last day of classes.
-
 ![Image](https://github.com/user-attachments/assets/f278f0f2-5792-4abf-a626-a5773346dea5)
 
 ## python3 datetime_example.py
