@@ -29,3 +29,8 @@ I started a Django project named "stevens" by executing the following command in
 `django-admin startproject stevens`
 
 ![Image](https://github.com/user-attachments/assets/965b3226-35b0-4a6f-8eb9-f7c9c4cf8d26)
+
+## Weather Station
+![Image](https://github.com/user-attachments/assets/33a8d407-1d08-4c4a-9ff0-87dc9d15dcb4)
+
+
