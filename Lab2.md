@@ -68,10 +68,12 @@ This command displays information about disk space on a file system
 
 ## mkdir demo
 This command makes a new directory called demo
+
 ![Image](https://github.com/user-attachments/assets/b6a107d3-fca4-4e22-a438-8efe1c953db4)
 
 ## cd demo
 This command changes the working directory to demo
+
 ![Image](https://github.com/user-attachments/assets/ff65a451-cc5f-4dff-b59c-9f85e7a4cea3)
 
 ## nano file
