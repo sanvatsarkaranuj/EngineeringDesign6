@@ -20,12 +20,12 @@ The following commands were executed in my terminal to install Django and Django
 - `pip3 install -U requests`
 ![Image](https://github.com/user-attachments/assets/70da05bc-5cc7-4710-b129-7ed259d0abb4)
 ![Image](https://github.com/user-attachments/assets/98fb9076-1af9-4175-927e-910d171ec621)
+![Image](https://github.com/user-attachments/assets/bfbb67fb-b1e5-48b8-a46e-aac3fd6f5869)
 
 ---
 
 ## Starting Django project
 I started a Django project named "stevens" by executing the following command in my terminal:
 `django-admin startproject stevens`
-![Image](https://github.com/user-attachments/assets/bfbb67fb-b1e5-48b8-a46e-aac3fd6f5869)
 
 ![Image](https://github.com/user-attachments/assets/965b3226-35b0-4a6f-8eb9-f7c9c4cf8d26)
