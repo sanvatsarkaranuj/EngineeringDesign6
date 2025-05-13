@@ -36,4 +36,4 @@ run say_hello.py that uses the template say_hello.mustache.
 - `python3 say_hello.py`
 
 The results of these commands are shown below:
-![Image](https://github.com/user-attachments/assets/0cce3dad-7419-4912-ad40-3d12058c83fb)
+![Image](https://github.com/user-attachments/assets/a629ad75-0a51-48b0-812e-c3cb677a6949)
