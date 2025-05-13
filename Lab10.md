@@ -1,4 +1,4 @@
-# Lab 10 :Blockchain
+# Lab 10: Blockchain
 ### Instructions: 
 Review lesson 10 in the GitHub repository.
 - Run hash_value.py twice and compare results
