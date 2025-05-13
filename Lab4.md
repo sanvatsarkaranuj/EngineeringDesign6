@@ -38,3 +38,7 @@ I started a Django project named "stevens" by executing the following command in
 ## mycpu
 ![Image](https://github.com/user-attachments/assets/ba6a6fe2-6067-496c-982f-0364163520d5)
 
+## Running Flask Server
+![Image](https://github.com/user-attachments/assets/f7d2685d-9640-43ff-8ef6-48596751bf1d)
+![Image](https://github.com/user-attachments/assets/38fe6a67-56f7-4674-b0ae-d743f91008fe)
+
