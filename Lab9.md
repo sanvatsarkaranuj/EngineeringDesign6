@@ -1,4 +1,4 @@
-# Lab 9:YANG
+# Lab 9: YANG
 ### Instructions: 
 Review lesson 9 in the GitHub repository. Install pyang and PlantUML. Copy ~/iot/lesson9/intrusiondetection.yang to ~/demo. Run pyang to generate intrusiondetection.yin and intrusiondetection.uml. Run PlantUML to generate intrusiondetection.png. Document results to your GitHub repository. 
 
