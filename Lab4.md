@@ -1,4 +1,4 @@
-# Lab 4:Django and Flask
+# Lab 4: Django and Flask
 Django and Flask
 ### Instructions: 
 - Go to the GitHub repository and review lesson 4.
