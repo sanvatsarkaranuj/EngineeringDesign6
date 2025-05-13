@@ -13,4 +13,4 @@ These functions utilize Paho MQTT in order to send / receive messages. `pubcpu` 
 ![Image](https://github.com/user-attachments/assets/8124338e-b290-4795-87ea-c411a758ff9f)
 
 2. Subscriber
-![Image](https://github.com/user-attachments/assets/93f9fbcf-b48b-4662-b327-99cae7107b36)
+![Image](https://github.com/user-attachments/assets/004f103d-f5f7-4061-aa0f-ad5791466795)
