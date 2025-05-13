@@ -1,4 +1,4 @@
-# Lab 5:Paho-MQTT
+# Lab 5: Paho-MQTT
 ---
 **Description:** This lab utilizes Paho-MQTT, which is a type of protocol that allows publishing/subscribing between modules
 
